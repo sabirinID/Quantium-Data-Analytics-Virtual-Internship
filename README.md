@@ -1,1 +1,1 @@
-# Quantium-Data-Analytics-Virtual-Internship
+# Quantium Data Analytics Virtual Internship
